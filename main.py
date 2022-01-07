@@ -1,5 +1,4 @@
 import requests
-import json
 
 def get_data():
     url = 'https://mach-eight.uc.r.appspot.com/' #endpoint
