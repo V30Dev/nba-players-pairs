@@ -9,4 +9,14 @@ https://docs.python-requests.org/en/master/user/install/
 
 To install Requests, simply run this simple command in your terminal of choice:
 
-$ python -m pip install requests
+ >   $ python -m pip install requests
+
+Now you can download the repository folder.
+
+Extract the .zip file to the desired location. Then from the terminal, access the folder where the main.py file is located.
+
+Finally, enter the following command in your terminal:
+
+ >   python main.py
+
+and hit enter.
